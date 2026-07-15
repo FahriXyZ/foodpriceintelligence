@@ -33,6 +33,8 @@ import {
 import { loadLatestPriceData } from "../services/latestPriceService";
 import { loadForecastDetail } from "../services/forecastDetailService";
 
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
+
 const PriceList = () => {
   const [foodData, setFoodData] = useState<PriceHistoryRow[]>([]);
   const [loading, setLoading] = useState(true);
@@ -254,7 +256,7 @@ const PriceList = () => {
     );
 
     try {
-      const response = await fetch("http://localhost:5000/update-ipj");
+      const response = await fetch(`${API_BASE_URL}/update-ipj`);
       const data = await response.json();
 
       if (!response.ok) {

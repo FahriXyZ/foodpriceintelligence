@@ -11,7 +11,7 @@ export async function loadForecastHistory() {
 }
 
 export async function generateForecastH1() {
-    const response = await fetch(`${API_BASE_URL}/forecast-history`);
+    const response = await fetch(`${API_BASE_URL}/forecast-h1`);
     const result = await response.json();
 
     if (!response.ok) {

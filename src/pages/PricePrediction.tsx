@@ -33,8 +33,6 @@ import {
 } from "../services/forecastHistoryService";
 import InteractivePredictionTable from "./InteractivePredictionTable";
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
-
 const PricePrediction = () => {
   const [predictionData, setPredictionData] = useState<ForecastHistoryRow[]>([]);
   const [loading, setLoading] = useState(true);
@@ -515,7 +513,7 @@ const PricePrediction = () => {
     setForecastError("");
 
     try {
-      const response = await fetch(`${API_BASE_URL}/forecast-h1`);
+      const response = await fetch("http://localhost:5000/forecast-h1");
       const data = await response.json();
 
       if (!response.ok) {
@@ -537,7 +535,7 @@ const PricePrediction = () => {
       setEvaluationLoading(true);
       setEvaluationMessage("");
 
-      const response = await fetch(`${API_BASE_URL}/evaluate-h1`);
+      const response = await fetch("http://localhost:5000/evaluate-h1");
       const result = await response.json();
 
       if (!response.ok) {
@@ -1253,7 +1251,7 @@ const PricePrediction = () => {
                       dx={-10}
                     />
                     <Tooltip
-                      formatter={(value: any, name: string) => [
+                      formatter={(value: any, name: any) => [
                         `Rp ${Number(value).toLocaleString("id-ID")}`,
                         name
                       ]}

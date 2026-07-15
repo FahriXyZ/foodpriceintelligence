@@ -6,13 +6,11 @@ import {
   Tag,
   LineChart,
   Sliders,
-  Search,
   Bell,
   User,
   Menu,
   AlertTriangle,
-  CheckCircle2,
-  Cpu
+  CheckCircle2
 } from 'lucide-react';
 import { cn } from './lib/utils';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -24,8 +22,6 @@ import PriceList from './pages/Pricelist';
 import NewsPaper from './pages/NewsPaper';
 import UserPrediction from "./pages/UserPrediction";
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
-
 const BackendStatus = () => {
   const [isOnline, setIsOnline] = useState<boolean>(false);
   const [loading, setLoading] = useState<boolean>(true);
@@ -33,7 +29,7 @@ const BackendStatus = () => {
   useEffect(() => {
     const checkHealth = async () => {
       try {
-        const res = await fetch(`${API_BASE_URL}/health`);
+        const res = await fetch("http://localhost:5000/health");
         if (res.ok) {
           setIsOnline(true);
         } else {
@@ -187,16 +183,7 @@ const RealTimeClock = () => {
 };
 
 const Navbar = ({ toggleSidebar }: { toggleSidebar: () => void }) => {
-  const navigate = useNavigate();
-  const [searchQuery, setSearchQuery] = useState("");
   const [showNotifications, setShowNotifications] = useState(false);
-
-  const handleSearch = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (searchQuery.trim()) {
-      navigate(`/harga?search=${encodeURIComponent(searchQuery.trim())}`);
-    }
-  };
 
   return (
     <header className="sticky top-0 z-30 w-full bg-white/80 backdrop-blur-md border-b border-slate-100">

@@ -21,8 +21,6 @@ import {
     Legend
 } from "recharts";
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
-
 const UserPrediction = () => {
     const [selectedCommodity, setSelectedCommodity] = useState("");
     const [selectedDate, setSelectedDate] = useState("");
@@ -57,7 +55,7 @@ const UserPrediction = () => {
     useEffect(() => {
         const fetchCommodities = async () => {
             try {
-                const response = await fetch(`${API_BASE_URL}/get-commodities`);
+                const response = await fetch("http://localhost:5000/get-commodities");
                 if (response.ok) {
                     const data = await response.json();
                     setCommodities(data.commodities || []);
@@ -82,7 +80,7 @@ const UserPrediction = () => {
         setResult(null);
 
         try {
-            const response = await fetch(`${API_BASE_URL}/predict-custom`, {
+            const response = await fetch("http://localhost:5000/predict-custom", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",

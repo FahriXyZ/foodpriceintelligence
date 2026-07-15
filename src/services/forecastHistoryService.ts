@@ -1,3 +1,4 @@
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
 export type ForecastHistoryRow = {
     id: number;
     tanggal: string;
@@ -25,7 +26,7 @@ export type ForecastHistoryRow = {
 };
 
 export async function loadForecastHistoryData(): Promise<ForecastHistoryRow[]> {
-    const response = await fetch("http://localhost:5000/forecast-history");
+    const response = await fetch(`${API_BASE_URL}/forecast-history`);
 
     if (!response.ok) {
         return [];

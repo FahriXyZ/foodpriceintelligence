@@ -1,5 +1,6 @@
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
 export async function loadForecastHistory() {
-    const response = await fetch("http://localhost:5000/forecast-history");
+    const response = await fetch(`${API_BASE_URL}/forecast-history`);
 
     if (!response.ok) {
         return [];
@@ -10,7 +11,7 @@ export async function loadForecastHistory() {
 }
 
 export async function generateForecastH1() {
-    const response = await fetch("http://localhost:5000/forecast-h1");
+    const response = await fetch(`${API_BASE_URL}/forecast-history`);
     const result = await response.json();
 
     if (!response.ok) {

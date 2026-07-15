@@ -1,3 +1,4 @@
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
 export type LatestPriceRow = {
     tanggal: string;
     commodity_id: number;
@@ -14,7 +15,7 @@ export type LatestPriceRow = {
 };
 
 export async function loadLatestPriceData(): Promise<LatestPriceRow[]> {
-    const response = await fetch("http://localhost:5000/latest-prices");
+    const response = await fetch(`${API_BASE_URL}/latest-prices`);
 
     if (!response.ok) {
         return [];

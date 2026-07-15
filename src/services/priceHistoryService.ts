@@ -1,3 +1,4 @@
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
 export type PriceHistoryRow = {
     id: number;
     tanggal: string;
@@ -16,7 +17,7 @@ export type PriceHistoryRow = {
 };
 
 export async function loadPriceHistoryData(): Promise<PriceHistoryRow[]> {
-    const response = await fetch("http://localhost:5000/price-history");
+    const response = await fetch(`${API_BASE_URL}/price-history`);
 
     if (!response.ok) {
         return [];

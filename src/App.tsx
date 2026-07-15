@@ -22,6 +22,8 @@ import PriceList from './pages/Pricelist';
 import NewsPaper from './pages/NewsPaper';
 import UserPrediction from "./pages/UserPrediction";
 
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
+
 const BackendStatus = () => {
   const [isOnline, setIsOnline] = useState<boolean>(false);
   const [loading, setLoading] = useState<boolean>(true);
@@ -29,7 +31,7 @@ const BackendStatus = () => {
   useEffect(() => {
     const checkHealth = async () => {
       try {
-        const res = await fetch("http://localhost:5000/health");
+        const res = await fetch(`${API_BASE_URL}/health`);
         if (res.ok) {
           setIsOnline(true);
         } else {

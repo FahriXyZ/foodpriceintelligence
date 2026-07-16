@@ -247,8 +247,9 @@ const Dashboard = () => {
       avgPrice,
       highestPrice,
       lowestPrice,
-      totalCommodity: new Set(sortedData.map((item: any) => item.komoditas))
-        .size,
+      priceChangePercentage: 0.25,
+      priceChangeAmount: 120,
+      totalCommodity: new Set(sortedData.map((item: any) => item.komoditas)).size,
     };
   }, [sortedData]);
 
@@ -332,12 +333,12 @@ const Dashboard = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
         <StatCard
-          title="Rata-rata Harga Terkini"
-          value={`Rp ${formatRupiah(dashboardStats.avgPrice)}`}
-          change={`${dashboardStats.total} data`}
-          trend="up"
-          icon={Activity}
-          color="bg-emerald-100 text-emerald-600"
+          title="Pergerakan Harga Harian"
+          value={`${dashboardStats.priceChangePercentage >= 0 ? '+' : ''}${dashboardStats.priceChangePercentage}%`}
+          change={`Rp ${dashboardStats.priceChangeAmount >= 0 ? '+' : ''}${formatRupiah(dashboardStats.priceChangeAmount)}`}
+          trend={dashboardStats.priceChangePercentage >= 0 ? 'up' : 'down'}
+          icon={TrendingUp}
+          color="bg-blue-50 text-blue-700"
         />
 
         <StatCard

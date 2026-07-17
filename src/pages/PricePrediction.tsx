@@ -704,13 +704,13 @@ const PricePrediction = () => {
         >
           Reset Filter
         </button>
-        <button
+        {/* <button
           onClick={handleExport}
           className="flex items-center gap-2 bg-white border border-slate-200 px-4 py-2.5 rounded-xl text-sm font-bold text-slate-700 hover:bg-slate-50 transition-all ml-auto"
         >
           <Download size={18} />
           Export Excel
-        </button>
+        </button> */}
       </div>
 
       <div className="flex bg-slate-200/50 p-1.5 rounded-xl w-full md:w-fit overflow-x-auto">

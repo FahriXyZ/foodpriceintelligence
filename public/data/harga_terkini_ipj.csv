@@ -35,6 +35,7 @@
 2026-07-12,Ayam Broiler/Ras,16,42573,42072,501,1.190815744438106,42831,29727,60000,rise,ekor,https://infopangan.jakarta.go.id/api2/v1/file?name=ayam-broiler-ras.png
 2026-07-13,Ayam Broiler/Ras,16,42467,42573,-106,-0.2489840979024264,42818,29727,60000,fall,ekor,https://infopangan.jakarta.go.id/api2/v1/file?name=ayam-broiler-ras.png
 2026-07-15,Ayam Broiler/Ras,16,42243,42520,-277,-0.6514581373471308,42798,29727,60000,fall,ekor,https://infopangan.jakarta.go.id/api2/v1/file?name=ayam-broiler-ras.png
+2026-07-17,Ayam Broiler/Ras,16,41872,42739,-867,-2.0285921523666905,42764,29727,60000,fall,ekor,https://infopangan.jakarta.go.id/api2/v1/file?name=ayam-broiler-ras.png
 2026-05-31,Bawang Merah,12,59476,59133,343,0.5800483655488475,51937,20511,70000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-merah.png
 2026-06-01,Bawang Merah,12,59483,59476,7,0.0117694532248301,52015,20511,75000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-merah.png
 2026-06-02,Bawang Merah,12,56450,59817,-3367,-5.62883461223398,52084,20511,75000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-merah.png
@@ -71,6 +72,7 @@
 2026-07-12,Bawang Merah,12,49333,50031,-698,-1.3951350162899003,53307,20511,75000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-merah.png
 2026-07-13,Bawang Merah,12,49067,49333,-266,-0.5391928323840026,53284,20511,75000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-merah.png
 2026-07-15,Bawang Merah,12,48678,49177,-499,-1.0147019948349838,53275,20511,75000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-merah.png
+2026-07-17,Bawang Merah,12,47377,49141,-1764,-3.5896705398750535,53250,20511,75000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-merah.png
 2026-05-31,Bawang Putih,13,42401,42817,-416,-0.9715767101852067,40842,18000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-putih.png
 2026-06-01,Bawang Putih,13,41067,42401,-1334,-3.146152213391193,40832,18000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-putih.png
 2026-06-02,Bawang Putih,13,41350,41367,-17,-0.0410955592622138,40806,18000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-putih.png
@@ -107,6 +109,7 @@
 2026-07-12,Bawang Putih,13,44353,44724,-371,-0.8295322421965835,41289,5000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-putih.png
 2026-07-13,Bawang Putih,13,44267,44353,-86,-0.1938989470836245,41314,5000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-putih.png
 2026-07-15,Bawang Putih,13,44507,44260,247,0.5580659737912336,41352,5000,60000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-putih.png
+2026-07-17,Bawang Putih,13,44250,44417,-167,-0.3759821689893509,41388,5000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=bawang-putih.png
 2026-05-31,Beras IR 42/Pera,5,16320,16373,-53,-0.3237036584621022,15916,11915,19000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_42_Pera.png
 2026-06-01,Beras IR 42/Pera,5,16467,16320,147,0.900735294117647,15924,11915,19000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_42_Pera.png
 2026-06-02,Beras IR 42/Pera,5,15966,16367,-401,-2.4500519337691697,15921,11915,19000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_42_Pera.png
@@ -143,6 +146,7 @@
 2026-07-12,Beras IR 42/Pera,5,16433,16587,-154,-0.9284379333212756,16012,11915,20000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_42_Pera.png
 2026-07-13,Beras IR 42/Pera,5,16575,16433,142,0.8641148907685754,16013,11915,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_42_Pera.png
 2026-07-15,Beras IR 42/Pera,5,16212,16525,-313,-1.8940998487140697,16010,11915,20000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_42_Pera.png
+2026-07-17,Beras IR 42/Pera,5,16401,16527,-126,-0.7623888182973316,16012,11915,20000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_42_Pera.png
 2026-05-31,Beras IR. I (IR 64),1,15555,15479,76,0.4909877899089089,15414,10958,18000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_I_(IR_64).png
 2026-06-01,Beras IR. I (IR 64),1,15666,15555,111,0.7135969141755062,15419,10958,18000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_I_(IR_64).png
 2026-06-02,Beras IR. I (IR 64),1,15363,15771,-408,-2.587026821381016,15423,10958,18000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_I_(IR_64).png
@@ -179,6 +183,7 @@
 2026-07-12,Beras IR. I (IR 64),1,15607,15562,45,0.2891659169772523,15443,10958,18000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_I_(IR_64).png
 2026-07-13,Beras IR. I (IR 64),1,15685,15607,78,0.4997757416543859,15447,10958,18000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_I_(IR_64).png
 2026-07-15,Beras IR. I (IR 64),1,15624,15656,-32,-0.2043944813490036,15445,10958,18000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_I_(IR_64).png
+2026-07-17,Beras IR. I (IR 64),1,15652,15572,80,0.5137426149499101,15447,10958,18000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_I_(IR_64).png
 2026-05-31,Beras IR. II (IR 64) Ramos,2,14672,14653,19,0.1296662799426738,14591,9458,17000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_II_(IR_64).png
 2026-06-01,Beras IR. II (IR 64) Ramos,2,14440,14672,-232,-1.5812431842966197,14591,9458,17000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_II_(IR_64).png
 2026-06-02,Beras IR. II (IR 64) Ramos,2,14357,14565,-208,-1.4280810161345692,14589,9458,17000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_II_(IR_64).png
@@ -215,6 +220,7 @@
 2026-07-12,Beras IR. II (IR 64) Ramos,2,14413,14628,-215,-1.46978397593656,14578,9458,17000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_II_(IR_64).png
 2026-07-13,Beras IR. II (IR 64) Ramos,2,14639,14413,226,1.5680288628321657,14580,9458,17000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_II_(IR_64).png
 2026-07-15,Beras IR. II (IR 64) Ramos,2,14537,14580,-43,-0.2949245541838134,14579,9458,17000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_II_(IR_64).png
+2026-07-17,Beras IR. II (IR 64) Ramos,2,14647,14538,109,0.7497592516164535,14579,9458,17000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_II_(IR_64).png
 2026-05-31,Beras IR. III (IR 64),3,13853,13925,-72,-0.5170556552962298,13817,9354,145000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_III_(IR_64).png
 2026-06-01,Beras IR. III (IR 64),3,13600,13853,-253,-1.826319208835632,13820,9354,145000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_III_(IR_64).png
 2026-06-02,Beras IR. III (IR 64),3,13695,13867,-172,-1.2403547991634816,13820,9354,145000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_III_(IR_64).png
@@ -250,7 +256,8 @@
 2026-07-11,Beras IR. III (IR 64),3,13992,13845,147,1.0617551462621884,13796,9354,16000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_III_(IR_64).png
 2026-07-12,Beras IR. III (IR 64),3,13675,13992,-317,-2.265580331618068,13798,9354,16000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_III_(IR_64).png
 2026-07-13,Beras IR. III (IR 64),3,13932,13675,257,1.879341864716636,13803,9354,16000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_III_(IR_64).png
-2026-07-15,Beras IR. III (IR 64),3,13847,13981,-134,-0.9584436020313283,13810,9354,16000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_III_(IR_64).png
+2026-07-15,Beras IR. III (IR 64),3,13847,13981,-134,-0.9584436020313284,13810,9354,16000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_III_(IR_64).png
+2026-07-17,Beras IR. III (IR 64),3,13979,13842,137,0.9897413668545009,13816,9354,16000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=IR_III_(IR_64).png
 2026-05-31,Beras Medium,114,14000,14000,0,0.0,13485,9458,17000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=beras-premium.png
 2026-06-01,Beras Medium,114,13000,14000,-1000,-7.142857142857142,13480,9458,17000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=beras-premium.png
 2026-06-02,Beras Medium,114,13500,13500,0,0.0,13478,9458,17000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=beras-premium.png
@@ -285,7 +292,8 @@
 2026-07-11,Beras Medium,114,14000,14000,0,0.0,13569,9458,17000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=beras-premium.png
 2026-07-12,Beras Medium,114,14000,14000,0,0.0,13577,9458,17000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=beras-premium.png
 2026-07-13,Beras Medium,114,14000,14000,0,0.0,13585,9458,17000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=beras-premium.png
-2026-07-15,Beras Medium,114,13667,14000,-333,-2.3785714285714286,13601,9458,17000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=beras-premium.png
+2026-07-15,Beras Medium,114,13667,14000,-333,-2.378571428571429,13601,9458,17000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=beras-premium.png
+2026-07-17,Beras Medium,114,14000,14000,0,0.0,13618,9458,17000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=beras-premium.png
 2026-05-31,Beras Muncul I,4,15292,15858,-566,-3.5691764409131035,15165,11127,22000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Muncul_I.png
 2026-06-01,Beras Muncul I,4,16033,15292,741,4.845670939053099,15162,11127,22000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Muncul_I.png
 2026-06-02,Beras Muncul I,4,16033,16033,0,0.0,15160,11127,22000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Muncul_I.png
@@ -321,7 +329,8 @@
 2026-07-11,Beras Muncul I,4,15500,15589,-89,-0.570915389056386,15425,11127,22000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Muncul_I.png
 2026-07-12,Beras Muncul I,4,15556,15500,56,0.3612903225806451,15433,11127,22000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Muncul_I.png
 2026-07-13,Beras Muncul I,4,15650,15556,94,0.6042684494728722,15438,11127,22000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Muncul_I.png
-2026-07-15,Beras Muncul I,4,15833,15539,294,1.8920136430915762,15454,11127,22000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Muncul_I.png
+2026-07-15,Beras Muncul I,4,15833,15539,294,1.892013643091576,15454,11127,22000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Muncul_I.png
+2026-07-17,Beras Muncul I,4,15581,15500,81,0.5225806451612903,15465,11127,22000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Muncul_I.png
 2026-05-31,Beras Setra I/Premium,6,16750,16550,200,1.2084592145015105,16071,9458,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Setra_I_Premium.png
 2026-06-01,Beras Setra I/Premium,6,15750,16750,-1000,-5.970149253731343,16082,9458,20000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Setra_I_Premium.png
 2026-06-02,Beras Setra I/Premium,6,16500,16000,500,3.125,16085,9458,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Setra_I_Premium.png
@@ -358,6 +367,7 @@
 2026-07-12,Beras Setra I/Premium,6,17313,17301,12,0.0693601525923357,16205,9458,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Setra_I_Premium.png
 2026-07-13,Beras Setra I/Premium,6,17452,17313,139,0.8028648992086871,16209,9458,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Setra_I_Premium.png
 2026-07-15,Beras Setra I/Premium,6,16438,17072,-634,-3.7136832239925024,16214,9458,20000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Setra_I_Premium.png
+2026-07-17,Beras Setra I/Premium,6,16960,17150,-190,-1.1078717201166182,16224,9458,20000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Setra_I_Premium.png
 2026-05-31,Cabe Merah Besar (TW),9,72483,72583,-100,-0.1377733077993469,58963,33820,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-besar.png
 2026-06-01,Cabe Merah Besar (TW),9,71583,72483,-900,-1.2416704606597408,59128,33820,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-besar.png
 2026-06-02,Cabe Merah Besar (TW),9,67333,71683,-4350,-6.068384414714786,59277,33820,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-besar.png
@@ -394,6 +404,7 @@
 2026-07-12,Cabe Merah Besar (TW),9,50967,52800,-1833,-3.4715909090909087,60380,33820,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-besar.png
 2026-07-13,Cabe Merah Besar (TW),9,52400,50967,1433,2.811623207173269,60342,33820,100000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-besar.png
 2026-07-15,Cabe Merah Besar (TW),9,50953,51633,-680,-1.316987198109736,60300,33820,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-besar.png
+2026-07-17,Cabe Merah Besar (TW),9,51500,87950,-36450,-41.44400227401933,60506,33820,600003,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-besar.png
 2026-05-31,Cabe Merah Keriting,8,68452,69933,-1481,-2.117741266640928,51670,29323,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-keriting.png
 2026-06-01,Cabe Merah Keriting,8,60800,68452,-7652,-11.178636124583653,51788,29323,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-keriting.png
 2026-06-02,Cabe Merah Keriting,8,59617,60800,-1183,-1.9457236842105263,51882,29323,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-keriting.png
@@ -430,6 +441,7 @@
 2026-07-12,Cabe Merah Keriting,8,46367,47805,-1438,-3.008053550883799,52853,29323,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-keriting.png
 2026-07-13,Cabe Merah Keriting,8,47133,46367,766,1.6520370090797334,52845,29323,100000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-keriting.png
 2026-07-15,Cabe Merah Keriting,8,46257,46513,-256,-0.5503837636789715,52802,29323,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-keriting.png
+2026-07-17,Cabe Merah Keriting,8,46725,46187,538,1.1648299304999241,52732,29323,100000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-merah-keriting.png
 2026-05-31,Cabe Rawit Hijau,11,65417,64650,767,1.1863882443928848,55893,23875,100000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-hijau.png
 2026-06-01,Cabe Rawit Hijau,11,63978,65417,-1439,-2.1997340140941954,55938,23875,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-hijau.png
 2026-06-02,Cabe Rawit Hijau,11,60167,63978,-3811,-5.956735127700147,55938,23875,100000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-hijau.png
@@ -466,6 +478,7 @@
 2026-07-12,Cabe Rawit Hijau,11,53700,54283,-583,-1.0740010684744763,56813,23875,95000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-hijau.png
 2026-07-13,Cabe Rawit Hijau,11,57117,53700,3417,6.363128491620111,56879,23875,95000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-hijau.png
 2026-07-15,Cabe Rawit Hijau,11,56286,55670,616,1.1065205676306806,57042,23875,95000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-hijau.png
+2026-07-17,Cabe Rawit Hijau,11,57391,57048,343,0.6012480717991866,57272,23875,95000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-hijau.png
 2026-05-31,Cabe Rawit Ijo Besar,119,42542,39750,2792,7.023899371069183,43064,25540,80000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
 2026-06-01,Cabe Rawit Ijo Besar,119,47500,42542,4958,11.65436509802078,43146,25540,80000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
 2026-06-02,Cabe Rawit Ijo Besar,119,39444,46875,-7431,-15.8528,43179,25540,80000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
@@ -501,7 +514,8 @@
 2026-07-11,Cabe Rawit Ijo Besar,119,43333,38958,4375,11.230042609990246,42648,25540,80000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
 2026-07-12,Cabe Rawit Ijo Besar,119,36667,43333,-6666,-15.383195255348117,42623,25540,80000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
 2026-07-13,Cabe Rawit Ijo Besar,119,40208,36667,3541,9.657184934682412,42607,25540,80000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
-2026-07-15,Cabe Rawit Ijo Besar,119,39167,43750,-4583,-10.475428571428571,42617,25540,80000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
+2026-07-15,Cabe Rawit Ijo Besar,119,39167,43750,-4583,-10.475428571428573,42617,25540,80000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
+2026-07-17,Cabe Rawit Ijo Besar,119,42292,38750,3542,9.140645161290323,42587,25540,80000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
 2026-05-31,Cabe Rawit Merah,10,92405,89183,3222,3.612796160703273,86080,25540,140000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
 2026-06-01,Cabe Rawit Merah,10,88767,92405,-3638,-3.937016395216709,85927,25540,140000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
 2026-06-02,Cabe Rawit Merah,10,83917,88767,-4850,-5.463742156432008,85770,25540,140000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
@@ -537,7 +551,8 @@
 2026-07-11,Cabe Rawit Merah,10,59662,61133,-1471,-2.406229041597828,75307,25540,125000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
 2026-07-12,Cabe Rawit Merah,10,58433,59662,-1229,-2.0599376487546515,75038,25540,125000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
 2026-07-13,Cabe Rawit Merah,10,59967,58433,1534,2.625228894631458,74777,25540,125000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
-2026-07-15,Cabe Rawit Merah,10,58386,59560,-1174,-1.9711215580926797,74252,25540,125000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
+2026-07-15,Cabe Rawit Merah,10,58386,59560,-1174,-1.97112155809268,74252,25540,125000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
+2026-07-17,Cabe Rawit Merah,10,58413,58433,-20,-0.03422723461057964,73727,25540,125000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=cabe-rawit-merah.png
 2026-05-31,Daging Babi Berlemak,27,97833,114444,-16611,-14.514522386494704,110611,12000,160000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-babi-berlemak.png
 2026-06-01,Daging Babi Berlemak,27,96111,97833,-1722,-1.7601422832786484,110514,12000,160000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-babi-berlemak.png
 2026-06-02,Daging Babi Berlemak,27,107500,105694,1806,1.708706265256306,110486,12000,160000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-babi-berlemak.png
@@ -574,6 +589,7 @@
 2026-07-12,Daging Babi Berlemak,27,102778,107000,-4222,-3.945794392523364,109901,12000,160000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-babi-berlemak.png
 2026-07-13,Daging Babi Berlemak,27,104167,102778,1389,1.3514565373912706,109886,12000,160000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-babi-berlemak.png
 2026-07-15,Daging Babi Berlemak,27,103111,108333,-5222,-4.820322524069305,109855,12000,160000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-babi-berlemak.png
+2026-07-17,Daging Babi Berlemak,27,106167,104500,1667,1.5952153110047846,109801,12000,160000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-babi-berlemak.png
 2026-05-31,Daging Kambing,26,152833,138600,14233,10.269119769119769,152904,14000,170000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-kambing.png
 2026-06-01,Daging Kambing,26,154000,152833,1167,0.763578546518095,152912,14000,170000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-kambing.png
 2026-06-02,Daging Kambing,26,155313,154000,1313,0.8525974025974026,152935,14000,170000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-kambing.png
@@ -610,6 +626,7 @@
 2026-07-12,Daging Kambing,26,152667,152333,334,0.2192564972789875,152532,14000,165000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-kambing.png
 2026-07-13,Daging Kambing,26,153000,152667,333,0.2181217944938984,152530,14000,170000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-kambing.png
 2026-07-15,Daging Kambing,26,153600,152333,1267,0.8317304851870574,152500,14000,170000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-kambing.png
+2026-07-17,Daging Kambing,26,138600,152333,-13733,-9.015118195006991,152516,14000,170000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-kambing.png
 2026-05-31,Daging Sapi,118,150000,150000,0,0.0,146489,93864,170000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
 2026-06-01,Daging Sapi,118,149167,150000,-833,-0.5553333333333333,146546,93864,170000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
 2026-06-02,Daging Sapi,118,148333,149167,-834,-0.5591048958549814,146596,93864,170000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
@@ -646,6 +663,7 @@
 2026-07-12,Daging Sapi,118,148889,150000,-1111,-0.7406666666666667,147514,93864,160000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
 2026-07-13,Daging Sapi,118,144583,148889,-4306,-2.892087393964632,147439,93864,160000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
 2026-07-15,Daging Sapi,118,139063,149063,-10000,-6.7085728852901125,147277,93864,160000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
+2026-07-17,Daging Sapi,118,148750,144167,4583,3.178952187393786,147105,93864,160000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
 2026-05-31,Daging Sapi Has (Paha Belakang),14,152821,151334,1487,0.98259479033132,150637,107969,180000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-paha-belakang.png
 2026-06-01,Daging Sapi Has (Paha Belakang),14,153250,152821,429,0.2807205815954613,150718,107969,180000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-paha-belakang.png
 2026-06-02,Daging Sapi Has (Paha Belakang),14,149250,153917,-4667,-3.03215369322427,150770,107969,180000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-paha-belakang.png
@@ -681,7 +699,8 @@
 2026-07-11,Daging Sapi Has (Paha Belakang),14,152929,153750,-821,-0.5339837398373984,151437,107969,180000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-paha-belakang.png
 2026-07-12,Daging Sapi Has (Paha Belakang),14,152500,152929,-429,-0.2805223338935061,151438,107969,180000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-paha-belakang.png
 2026-07-13,Daging Sapi Has (Paha Belakang),14,152500,152500,0,0.0,151457,107969,180000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-paha-belakang.png
-2026-07-15,Daging Sapi Has (Paha Belakang),14,152929,153083,-154,-0.10059902144588229,151476,107969,180000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-paha-belakang.png
+2026-07-15,Daging Sapi Has (Paha Belakang),14,152929,153083,-154,-0.1005990214458822,151476,107969,180000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-paha-belakang.png
+2026-07-17,Daging Sapi Has (Paha Belakang),14,145929,152262,-6333,-4.15927808645624,151385,107969,180000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-paha-belakang.png
 2026-05-31,Daging Sapi Murni (Semur),15,148257,148167,90,0.060742270546073,145702,93864,170000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
 2026-06-01,Daging Sapi Murni (Semur),15,147833,148257,-424,-0.2859898689437936,145770,93864,170000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
 2026-06-02,Daging Sapi Murni (Semur),15,145600,148500,-2900,-1.9528619528619529,145824,93864,170000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
@@ -718,6 +737,7 @@
 2026-07-12,Daging Sapi Murni (Semur),15,147917,148024,-107,-0.0722855753121115,147370,93864,170000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
 2026-07-13,Daging Sapi Murni (Semur),15,148100,147917,183,0.1237180310579581,147394,93864,170000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
 2026-07-15,Daging Sapi Murni (Semur),15,146957,148433,-1476,-0.9943880403953298,147494,93864,170000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
+2026-07-17,Daging Sapi Murni (Semur),15,148024,147024,1000,0.6801610621395147,147518,93864,170000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=daging-sapi-murni.png
 2026-05-31,Garam Dapur,20,4573,4442,131,2.9491220171094104,4452,2000,50000,rise,250gr,https://infopangan.jakarta.go.id/api2/v1/file?name=garam-dapur.png
 2026-06-01,Garam Dapur,20,4808,4573,235,5.13885851738465,4455,2000,50000,rise,250gr,https://infopangan.jakarta.go.id/api2/v1/file?name=garam-dapur.png
 2026-06-02,Garam Dapur,20,5150,4892,258,5.27391659852821,4457,2000,50000,rise,250gr,https://infopangan.jakarta.go.id/api2/v1/file?name=garam-dapur.png
@@ -754,6 +774,7 @@
 2026-07-12,Garam Dapur,20,4633,4548,85,1.868953386103782,4503,2000,50000,rise,250gr,https://infopangan.jakarta.go.id/api2/v1/file?name=garam-dapur.png
 2026-07-13,Garam Dapur,20,4717,4633,84,1.813080077703432,4504,2000,50000,rise,250gr,https://infopangan.jakarta.go.id/api2/v1/file?name=garam-dapur.png
 2026-07-15,Garam Dapur,20,5102,4700,402,8.553191489361703,4511,2000,50000,rise,250gr,https://infopangan.jakarta.go.id/api2/v1/file?name=garam-dapur.png
+2026-07-17,Garam Dapur,20,4693,5763,-1070,-18.566718722887384,4527,2000,50000,fall,250gr,https://infopangan.jakarta.go.id/api2/v1/file?name=garam-dapur.png
 2026-05-31,Gas Elpiji 3kg,31,20667,20600,67,0.3252427184466019,20627,20000,32000,rise,3kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gas-elpiji-3kg.png
 2026-06-01,Gas Elpiji 3kg,31,20667,20667,0,0.0,20628,20000,32000,stagnant,3kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gas-elpiji-3kg.png
 2026-06-02,Gas Elpiji 3kg,31,20889,20667,222,1.0741762229641456,20631,20000,32000,rise,3kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gas-elpiji-3kg.png
@@ -789,7 +810,8 @@
 2026-07-11,Gas Elpiji 3kg,31,20600,20533,67,0.3263039984415331,20924,20000,220000,rise,3kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gas-elpiji-3kg.png
 2026-07-12,Gas Elpiji 3kg,31,20500,20600,-100,-0.4854368932038834,20925,20000,220000,fall,3kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gas-elpiji-3kg.png
 2026-07-13,Gas Elpiji 3kg,31,20533,20500,33,0.1609756097560975,20926,20000,220000,rise,3kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gas-elpiji-3kg.png
-2026-07-15,Gas Elpiji 3kg,31,20500,20533,-33,-0.16071689475478498,20933,20000,220000,fall,3kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gas-elpiji-3kg.png
+2026-07-15,Gas Elpiji 3kg,31,20500,20533,-33,-0.1607168947547849,20933,20000,220000,fall,3kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gas-elpiji-3kg.png
+2026-07-17,Gas Elpiji 3kg,31,20533,20500,33,0.16097560975609757,20936,20000,220000,rise,3kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gas-elpiji-3kg.png
 2026-05-31,Gula Pasir,18,18612,18443,169,0.9163368215583148,18522,2500,30000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
 2026-06-01,Gula Pasir,18,18510,18612,-102,-0.548033526756931,18524,2500,30000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
 2026-06-02,Gula Pasir,18,18383,18543,-160,-0.8628593000053929,18524,2500,30000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
@@ -826,6 +848,7 @@
 2026-07-12,Gula Pasir,18,18593,18586,7,0.037662756913806,18559,10000,30000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
 2026-07-13,Gula Pasir,18,18500,18593,-93,-0.5001882428871081,18557,10000,30000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
 2026-07-15,Gula Pasir,18,18479,18613,-134,-0.719926932788911,18556,10000,30000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
+2026-07-17,Gula Pasir,18,18581,18452,129,0.6991112074571862,18560,15000,30000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
 2026-05-31,Gula Pasir Kemasan Premium,115,19188,19042,146,0.7667261842243461,18882,14000,24000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
 2026-06-01,Gula Pasir Kemasan Premium,115,18875,19188,-313,-1.6312278507400455,18884,14000,24000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
 2026-06-02,Gula Pasir Kemasan Premium,115,19125,19125,0,0.0,18887,14000,24000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
@@ -862,6 +885,7 @@
 2026-07-12,Gula Pasir Kemasan Premium,115,18917,19000,-83,-0.4368421052631578,18909,18000,24000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
 2026-07-13,Gula Pasir Kemasan Premium,115,18875,18917,-42,-0.2220225194269704,18909,18000,24000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
 2026-07-15,Gula Pasir Kemasan Premium,115,19208,18854,354,1.877585658215763,18909,18000,24000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
+2026-07-17,Gula Pasir Kemasan Premium,115,18854,18917,-63,-0.3330337791404557,18907,18000,24000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=gula-pasir.png
 2026-05-31,Ikan Bandeng (sedang),28,44345,44900,-555,-1.2360801781737194,44052,5000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-bandeng.png
 2026-06-01,Ikan Bandeng (sedang),28,43933,44345,-412,-0.9290788138459803,44058,5000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-bandeng.png
 2026-06-02,Ikan Bandeng (sedang),28,42000,44267,-2267,-5.12119637653331,44042,5000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-bandeng.png
@@ -898,6 +922,7 @@
 2026-07-12,Ikan Bandeng (sedang),28,43200,42929,271,0.6312748957581122,44352,5000,60000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-bandeng.png
 2026-07-13,Ikan Bandeng (sedang),28,43067,43200,-133,-0.3078703703703703,44349,5000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-bandeng.png
 2026-07-15,Ikan Bandeng (sedang),28,43872,42983,889,2.06825954447107,44347,5000,60000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-bandeng.png
+2026-07-17,Ikan Bandeng (sedang),28,43852,42852,1000,2.333613366937366,44320,5000,60000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-bandeng.png
 2026-05-31,Ikan Kembung,120,48125,48125,0,0.0,49531,15000,60000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-kembung.png
 2026-06-01,Ikan Kembung,120,50000,48125,1875,3.896103896103896,49540,15000,60000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-kembung.png
 2026-06-02,Ikan Kembung,120,47500,46667,833,1.7849872500910708,49520,15000,60000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-kembung.png
@@ -934,6 +959,7 @@
 2026-07-12,Ikan Kembung,120,48333,48333,0,0.0,48122,12000,60000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-kembung.png
 2026-07-13,Ikan Kembung,120,47125,48333,-1208,-2.499327581569528,48105,12000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-kembung.png
 2026-07-15,Ikan Kembung,120,49250,46250,3000,6.486486486486487,48055,12000,60000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-kembung.png
+2026-07-17,Ikan Kembung,120,46250,48375,-2125,-4.3927648578811365,47998,12000,60000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-kembung.png
 2026-05-31,Ikan Lele,30,30563,30010,553,1.842719093635455,30503,2800,50000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-lele.png
 2026-06-01,Ikan Lele,30,30733,30563,170,0.5562281189673789,30508,2800,50000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-lele.png
 2026-06-02,Ikan Lele,30,30750,30533,217,0.7107064487603576,30515,2800,50000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-lele.png
@@ -969,7 +995,8 @@
 2026-07-11,Ikan Lele,30,29933,30670,-737,-2.402999673948484,30603,2800,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-lele.png
 2026-07-12,Ikan Lele,30,31120,29933,1187,3.965523001369726,30594,2800,40000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-lele.png
 2026-07-13,Ikan Lele,30,30520,31120,-600,-1.9280205655526992,30595,2800,40000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-lele.png
-2026-07-15,Ikan Lele,30,30900,30940,-40,-0.12928248222365868,30606,2800,40000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-lele.png
+2026-07-15,Ikan Lele,30,30900,30940,-40,-0.1292824822236586,30606,2800,40000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-lele.png
+2026-07-17,Ikan Lele,30,30847,31083,-236,-0.7592574719299938,30607,2800,40000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-lele.png
 2026-05-31,Ikan Mas,29,42220,42403,-183,-0.4315732377426125,41479,4000,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-mas.png
 2026-06-01,Ikan Mas,29,41933,42220,-287,-0.6797726196115585,41460,4000,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-mas.png
 2026-06-02,Ikan Mas,29,39438,41883,-2445,-5.837690709834539,41433,4000,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-mas.png
@@ -1006,6 +1033,7 @@
 2026-07-12,Ikan Mas,29,41717,42017,-300,-0.7139967156151081,40854,4000,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-mas.png
 2026-07-13,Ikan Mas,29,42420,41717,703,1.6851643214996284,40848,4000,50000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-mas.png
 2026-07-15,Ikan Mas,29,41783,41887,-104,-0.2482870580370998,40821,20000,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-mas.png
+2026-07-17,Ikan Mas,29,41953,42170,-217,-0.5145838273654256,40772,20000,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=ikan-mas.png
 2026-05-31,Jeruk Medan,25,31533,30500,1033,3.3868852459016394,30577,12000,45000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=jeruk-medan.png
 2026-06-01,Jeruk Medan,25,32813,31533,1280,4.059239526844893,30603,12000,45000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=jeruk-medan.png
 2026-06-02,Jeruk Medan,25,31125,32150,-1025,-3.188180404354588,30607,12000,45000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=jeruk-medan.png
@@ -1042,6 +1070,7 @@
 2026-07-12,Jeruk Medan,25,32233,32317,-84,-0.2599251168115852,31277,10000,45000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=jeruk-medan.png
 2026-07-13,Jeruk Medan,25,31667,32233,-566,-1.7559643843266215,31269,10000,45000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=jeruk-medan.png
 2026-07-15,Jeruk Medan,25,31067,31487,-420,-1.3338838250706642,31275,10000,45000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=jeruk-medan.png
+2026-07-17,Jeruk Medan,25,31567,30650,917,2.99184339314845,31276,10000,45000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=jeruk-medan.png
 2026-05-31,Kacang Kedelai,121,18778,18778,0,0.0,17521,18000,35000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kacang-kedelai.png
 2026-06-01,Kacang Kedelai,121,19333,18778,555,2.955586324422196,17545,18000,35000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kacang-kedelai.png
 2026-06-02,Kacang Kedelai,121,13500,19000,-5500,-28.94736842105264,17522,18000,35000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kacang-kedelai.png
@@ -1078,6 +1107,7 @@
 2026-07-12,Kacang Kedelai,121,18500,20334,-1834,-9.01937641388807,17585,18000,35000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kacang-kedelai.png
 2026-07-13,Kacang Kedelai,121,19250,18500,750,4.054054054054054,17598,18000,35000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kacang-kedelai.png
 2026-07-15,Kacang Kedelai,121,19542,17917,1625,9.069598705140368,17521,18000,35000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kacang-kedelai.png
+2026-07-17,Kacang Kedelai,121,18167,19056,-889,-4.665197313182199,17459,18000,35000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kacang-kedelai.png
 2026-05-31,Kelapa Kupas,23,15147,14890,257,1.725990597716588,14926,10000,160003,rise,butir,https://infopangan.jakarta.go.id/api2/v1/file?name=kelapa-kupas.png
 2026-06-01,Kelapa Kupas,23,14753,15147,-394,-2.601175150194758,14931,10000,160003,fall,butir,https://infopangan.jakarta.go.id/api2/v1/file?name=kelapa-kupas.png
 2026-06-02,Kelapa Kupas,23,15333,15087,246,1.6305428514615232,14939,10000,160003,rise,butir,https://infopangan.jakarta.go.id/api2/v1/file?name=kelapa-kupas.png
@@ -1114,6 +1144,7 @@
 2026-07-12,Kelapa Kupas,23,14380,14483,-103,-0.7111786232134226,14739,2500,160003,fall,butir,https://infopangan.jakarta.go.id/api2/v1/file?name=kelapa-kupas.png
 2026-07-13,Kelapa Kupas,23,14623,14380,243,1.689847009735744,14736,2500,160003,rise,butir,https://infopangan.jakarta.go.id/api2/v1/file?name=kelapa-kupas.png
 2026-07-15,Kelapa Kupas,23,14717,14623,94,0.6428229501470287,14729,2500,160003,rise,butir,https://infopangan.jakarta.go.id/api2/v1/file?name=kelapa-kupas.png
+2026-07-17,Kelapa Kupas,23,14627,14483,144,0.9942691431333287,14721,2500,160003,rise,butir,https://infopangan.jakarta.go.id/api2/v1/file?name=kelapa-kupas.png
 2026-05-31,Kentang (sedang),21,19186,19200,-14,-0.0729166666666666,18347,11500,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kentang.png
 2026-06-01,Kentang (sedang),21,19197,19186,11,0.0573334723235692,18364,11500,50000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kentang.png
 2026-06-02,Kentang (sedang),21,18817,19230,-413,-2.1476859074362977,18371,11500,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kentang.png
@@ -1149,7 +1180,8 @@
 2026-07-11,Kentang (sedang),21,19443,19213,230,1.1971061260604798,18686,1900,50000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kentang.png
 2026-07-12,Kentang (sedang),21,19280,19443,-163,-0.8383479915650878,18690,1900,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kentang.png
 2026-07-13,Kentang (sedang),21,19083,19280,-197,-1.0217842323651452,18692,1900,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kentang.png
-2026-07-15,Kentang (sedang),21,19229,19257,-28,-0.14540167211922936,18691,1900,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kentang.png
+2026-07-15,Kentang (sedang),21,19229,19257,-28,-0.1454016721192293,18691,1900,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kentang.png
+2026-07-17,Kentang (sedang),21,19420,19207,213,1.1089706877700838,18696,1900,50000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=kentang.png
 2026-05-31,Margarin Blueband Cup,36,18123,18367,-244,-1.3284695377579354,18177,9000,22000,fall,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-cup.png
 2026-06-01,Margarin Blueband Cup,36,18350,18123,227,1.2525520057385644,18176,9000,22000,rise,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-cup.png
 2026-06-02,Margarin Blueband Cup,36,18800,18117,683,3.7699398355136062,18176,9000,22000,rise,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-cup.png
@@ -1185,7 +1217,8 @@
 2026-07-11,Margarin Blueband Cup,36,18417,18067,350,1.9372336303758235,18168,9000,22000,rise,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-cup.png
 2026-07-12,Margarin Blueband Cup,36,18567,18417,150,0.8144648965629581,18171,9000,22000,rise,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-cup.png
 2026-07-13,Margarin Blueband Cup,36,18433,18567,-134,-0.7217105617493402,18174,9000,22000,fall,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-cup.png
-2026-07-15,Margarin Blueband Cup,36,18073,18033,40,0.22181556036155936,18176,9000,22000,rise,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-cup.png
+2026-07-15,Margarin Blueband Cup,36,18073,18033,40,0.2218155603615593,18176,9000,22000,rise,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-cup.png
+2026-07-17,Margarin Blueband Cup,36,18200,18317,-117,-0.63875088715401,18182,9000,22000,fall,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-cup.png
 2026-05-31,Margarin Blueband Sachet,37,10734,10483,251,2.394352761614042,10458,6500,100001,rise,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-sachet.png
 2026-06-01,Margarin Blueband Sachet,37,10500,10734,-234,-2.1799888205701508,10462,6500,100001,fall,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-sachet.png
 2026-06-02,Margarin Blueband Sachet,37,10073,10733,-660,-6.149259293766887,10465,6500,100001,fall,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-sachet.png
@@ -1222,6 +1255,7 @@
 2026-07-12,Margarin Blueband Sachet,37,10353,10633,-280,-2.633311389071758,10445,1200,21000,fall,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-sachet.png
 2026-07-13,Margarin Blueband Sachet,37,10507,10353,154,1.4874915483434754,10442,1200,21000,rise,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-sachet.png
 2026-07-15,Margarin Blueband Sachet,37,10350,10627,-277,-2.6065681754022774,10441,1200,21000,fall,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-sachet.png
+2026-07-17,Margarin Blueband Sachet,37,10547,10417,130,1.247960065277911,10439,1200,21000,rise,kms,https://infopangan.jakarta.go.id/api2/v1/file?name=margarin-blueband-sachet.png
 2026-05-31,Minyak Goreng (Kuning/Curah),7,21810,21840,-30,-0.1373626373626373,21388,2000,25000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-06-01,Minyak Goreng (Kuning/Curah),7,22147,21810,337,1.5451627693718477,21412,2000,25000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-06-02,Minyak Goreng (Kuning/Curah),7,22100,22120,-20,-0.0904159132007233,21436,2000,25000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
@@ -1258,6 +1292,7 @@
 2026-07-12,Minyak Goreng (Kuning/Curah),7,21713,21680,33,0.1522140221402214,21858,2000,25000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-07-13,Minyak Goreng (Kuning/Curah),7,21833,21713,120,0.5526643024915949,21864,2000,25000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-07-15,Minyak Goreng (Kuning/Curah),7,21164,21980,-816,-3.7124658780709736,21870,2000,25000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
+2026-07-17,Minyak Goreng (Kuning/Curah),7,21747,21567,180,0.8346084295451384,21883,2000,25000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-05-31,Minyak Goreng Kemasan Premium,116,22750,23250,-500,-2.1505376344086025,22100,16000,28000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-06-01,Minyak Goreng Kemasan Premium,116,23000,22750,250,1.098901098901099,22121,16000,28000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-06-02,Minyak Goreng Kemasan Premium,116,21444,23500,-2056,-8.748936170212767,22131,16000,28000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
@@ -1294,6 +1329,7 @@
 2026-07-12,Minyak Goreng Kemasan Premium,116,22250,23167,-917,-3.958216428540597,22640,16000,28000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-07-13,Minyak Goreng Kemasan Premium,116,22250,22250,0,0.0,22647,16000,28000,stagnant,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-07-15,Minyak Goreng Kemasan Premium,116,23000,22917,83,0.3621765501592704,22673,16000,28000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
+2026-07-17,Minyak Goreng Kemasan Premium,116,23208,23000,208,0.9043478260869564,22687,16000,28000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-05-31,Minyak Goreng MINYAKITA,117,16692,17371,-679,-3.9088135398077255,17444,15500,23000,fall,liter,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-06-01,Minyak Goreng MINYAKITA,117,18017,16692,1325,7.937934339803498,17451,15500,23000,rise,liter,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-06-02,Minyak Goreng MINYAKITA,117,18383,18100,283,1.56353591160221,17454,15500,23000,rise,liter,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
@@ -1330,6 +1366,7 @@
 2026-07-12,Minyak Goreng MINYAKITA,117,17850,17506,344,1.965040557523135,17541,15500,24000,rise,liter,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-07-13,Minyak Goreng MINYAKITA,117,17688,17850,-162,-0.907563025210084,17543,15500,24000,fall,liter,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-07-15,Minyak Goreng MINYAKITA,117,17038,17604,-566,-3.2151783685526016,17545,15500,24000,fall,liter,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
+2026-07-17,Minyak Goreng MINYAKITA,117,17604,17246,358,2.075843673895396,17549,15500,24000,rise,liter,https://infopangan.jakarta.go.id/api2/v1/file?name=Curah.png
 2026-05-31,Semangka,24,13820,13525,295,2.181146025878004,13239,3000,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=semangka.png
 2026-06-01,Semangka,24,14656,13820,836,6.049204052098408,13253,3000,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=semangka.png
 2026-06-02,Semangka,24,13781,14525,-744,-5.122203098106713,13260,3000,20000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=semangka.png
@@ -1365,7 +1402,8 @@
 2026-07-11,Semangka,24,13833,13575,258,1.900552486187845,13393,1700,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=semangka.png
 2026-07-12,Semangka,24,13900,13833,67,0.4843490204583243,13397,1700,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=semangka.png
 2026-07-13,Semangka,24,13380,13900,-520,-3.741007194244604,13397,1700,20000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=semangka.png
-2026-07-15,Semangka,24,13900,13653,247,1.8091261993701018,13400,1700,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=semangka.png
+2026-07-15,Semangka,24,13900,13653,247,1.8091261993701016,13400,1700,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=semangka.png
+2026-07-17,Semangka,24,13633,13558,75,0.5531789349461572,13390,1700,20000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=semangka.png
 2026-05-31,Susu Bubuk Bendera 400gr,32,45000,45000,0,0.0,44257,12000,50000,stagnant,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-bendera-400gr.png
 2026-06-01,Susu Bubuk Bendera 400gr,32,45000,45000,0,0.0,44250,12000,50000,stagnant,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-bendera-400gr.png
 2026-06-04,Susu Bubuk Bendera 400gr,32,47250,45500,1750,3.8461538461538463,44364,12000,53000,rise,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-bendera-400gr.png
@@ -1396,6 +1434,7 @@
 2026-07-12,Susu Bubuk Bendera 400gr,32,45000,45000,0,0.0,44526,12000,53000,stagnant,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-bendera-400gr.png
 2026-07-13,Susu Bubuk Bendera 400gr,32,45500,45000,500,1.1111111111111112,44546,12000,53000,rise,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-bendera-400gr.png
 2026-07-15,Susu Bubuk Bendera 400gr,32,45500,45000,500,1.1111111111111112,44561,12000,53000,rise,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-bendera-400gr.png
+2026-07-17,Susu Bubuk Bendera 400gr,32,45000,34000,11000,32.35294117647059,44575,12000,53000,rise,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-bendera-400gr.png
 2026-05-31,Susu Bubuk Dancow 400gr,33,53333,37334,15999,42.85369904108855,51003,12000,65000,rise,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-dancow-400gr.png
 2026-06-01,Susu Bubuk Dancow 400gr,33,55000,53333,1667,3.125644535278345,51049,12000,65000,rise,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-dancow-400gr.png
 2026-06-02,Susu Bubuk Dancow 400gr,33,45000,53333,-8333,-15.62447265295408,51049,12000,65000,fall,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-dancow-400gr.png
@@ -1432,6 +1471,7 @@
 2026-07-12,Susu Bubuk Dancow 400gr,33,51667,50000,1667,3.334,51294,12000,65000,rise,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-dancow-400gr.png
 2026-07-13,Susu Bubuk Dancow 400gr,33,51667,51667,0,0.0,51272,12000,65000,stagnant,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-dancow-400gr.png
 2026-07-15,Susu Bubuk Dancow 400gr,33,48000,51250,-3250,-6.341463414634147,51226,12000,65000,fall,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-dancow-400gr.png
+2026-07-17,Susu Bubuk Dancow 400gr,33,51250,46667,4583,9.820644138256156,51178,12000,65000,rise,krds,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-bubuk-dancow-400gr.png
 2026-05-31,Susu Kental Bendera 200gr,34,13348,13082,266,2.0333282372725883,13279,11000,140003,rise,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-bendera.png
 2026-06-01,Susu Kental Bendera 200gr,34,13440,13348,92,0.6892418339826192,13283,11000,140003,rise,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-bendera.png
 2026-06-02,Susu Kental Bendera 200gr,34,13308,13423,-115,-0.8567384340311407,13283,11000,140003,fall,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-bendera.png
@@ -1468,6 +1508,7 @@
 2026-07-12,Susu Kental Bendera 200gr,34,13340,13288,52,0.391330523780855,13240,11000,140003,rise,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-bendera.png
 2026-07-13,Susu Kental Bendera 200gr,34,13350,13340,10,0.0749625187406296,13240,11000,140003,rise,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-bendera.png
 2026-07-15,Susu Kental Bendera 200gr,34,13148,13333,-185,-1.3875346883672093,13242,11000,140003,fall,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-bendera.png
+2026-07-17,Susu Kental Bendera 200gr,34,13364,13141,223,1.6969789209344797,13244,11000,140003,rise,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-bendera.png
 2026-05-31,Susu Kental Enak 200gr,35,12033,11967,66,0.5515166708448233,11887,10000,20000,rise,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-enak.png
 2026-06-01,Susu Kental Enak 200gr,35,12233,12033,200,1.662095902933599,11887,10000,20000,rise,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-enak.png
 2026-06-02,Susu Kental Enak 200gr,35,12033,12100,-67,-0.5537190082644629,11885,10000,20000,fall,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-enak.png
@@ -1504,6 +1545,7 @@
 2026-07-12,Susu Kental Enak 200gr,35,12100,11967,133,1.111389654884265,11923,10000,20000,rise,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-enak.png
 2026-07-13,Susu Kental Enak 200gr,35,23833,12100,11733,96.96694214876032,12019,10000,130000,rise,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-enak.png
 2026-07-15,Susu Kental Enak 200gr,35,11933,12100,-167,-1.3801652892561984,12021,10000,130000,fall,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-enak.png
+2026-07-17,Susu Kental Enak 200gr,35,12100,11833,267,2.2564015887771487,12024,10000,130000,rise,klng,https://infopangan.jakarta.go.id/api2/v1/file?name=susu-kental-enak.png
 2026-05-31,Telur Ayam Ras,17,28365,28270,95,0.3360452776795189,30131,20022,310000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=telur-ayam-ras.png
 2026-06-01,Telur Ayam Ras,17,28393,28365,28,0.0987132028908866,30099,20022,310000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=telur-ayam-ras.png
 2026-06-02,Telur Ayam Ras,17,28400,28427,-27,-0.0949801245294966,30064,20022,310000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=telur-ayam-ras.png
@@ -1539,7 +1581,8 @@
 2026-07-11,Telur Ayam Ras,17,25462,25850,-388,-1.5009671179883946,28262,20022,250000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=telur-ayam-ras.png
 2026-07-12,Telur Ayam Ras,17,25387,25462,-75,-0.2945565941402874,28205,20022,250000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=telur-ayam-ras.png
 2026-07-13,Telur Ayam Ras,17,25933,25387,546,2.1507070547918223,28161,20022,250000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=telur-ayam-ras.png
-2026-07-15,Telur Ayam Ras,17,28643,25893,2750,10.620631058587263,28082,20022,250000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=telur-ayam-ras.png
+2026-07-15,Telur Ayam Ras,17,28643,25893,2750,10.620631058587264,28082,20022,250000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=telur-ayam-ras.png
+2026-07-17,Telur Ayam Ras,17,26117,25802,315,1.220835594139989,27978,20022,250000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=telur-ayam-ras.png
 2026-05-31,Tepung Terigu,19,11393,11557,-164,-1.4190533875573246,11454,1200,19000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tepung-terigu.png
 2026-06-01,Tepung Terigu,19,11390,11393,-3,-0.0263319582199596,11458,1200,19000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tepung-terigu.png
 2026-06-02,Tepung Terigu,19,11675,11440,235,2.054195804195804,11459,1200,19000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tepung-terigu.png
@@ -1576,6 +1619,7 @@
 2026-07-12,Tepung Terigu,19,11324,11590,-266,-2.295081967213114,11482,1200,19000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tepung-terigu.png
 2026-07-13,Tepung Terigu,19,11433,11324,109,0.9625574002119393,11482,1200,19000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tepung-terigu.png
 2026-07-15,Tepung Terigu,19,11467,11373,94,0.8265189483865294,11476,1200,19000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tepung-terigu.png
+2026-07-17,Tepung Terigu,19,11410,11623,-213,-1.832573345951992,11484,1200,19000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tepung-terigu.png
 2026-05-31,Tomat Buah,22,19379,18987,392,2.064570495602254,18625,2000,50000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tomat.png
 2026-06-01,Tomat Buah,22,18800,19379,-579,-2.9877702667836314,18632,2000,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tomat.png
 2026-06-02,Tomat Buah,22,18983,19033,-50,-0.2627016234960332,18644,9000,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tomat.png
@@ -1612,3 +1656,4 @@
 2026-07-12,Tomat Buah,22,18553,19135,-582,-3.041546903579828,18659,10000,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tomat.png
 2026-07-13,Tomat Buah,22,18950,18553,397,2.139815663235056,18651,10000,50000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tomat.png
 2026-07-15,Tomat Buah,22,19093,18843,250,1.326752640237754,18618,10000,50000,rise,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tomat.png
+2026-07-17,Tomat Buah,22,18789,18990,-201,-1.0584518167456556,18575,10000,50000,fall,kg,https://infopangan.jakarta.go.id/api2/v1/file?name=tomat.png

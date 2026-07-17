@@ -706,13 +706,13 @@ Batas aman dinilai sebesar Rp ${formatRupiah(batasAman)} (Rata-rata + 1 Std Dev)
           Reset Filter
         </button>
 
-        <button
+        {/* <button
           onClick={handleExport}
           className="flex items-center gap-2 bg-white border border-slate-200 px-4 py-2.5 rounded-xl text-sm font-bold text-slate-700 hover:bg-slate-50 transition-all ml-auto"
         >
           <Download size={18} />
           Export CSV
-        </button>
+        </button> */}
       </div>
 
       {/* --- TABEL 1: HARGA TERKINI INFO PANGAN JAKARTA --- */}

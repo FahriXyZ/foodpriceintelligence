@@ -1,7 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import {
   Filter,
-  Download,
   ChevronLeft,
   ChevronRight,
   ArrowUpDown,
@@ -613,7 +612,7 @@ Batas aman dinilai sebesar Rp ${formatRupiah(batasAman)} (Rata-rata + 1 Std Dev)
     ];
   }, [detailSummary]);
 
-  const handleExport = () => { };
+  // const handleExport = () => { };
 
   if (loading) {
     return (

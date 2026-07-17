@@ -4,7 +4,6 @@ import { RefreshCw } from "lucide-react";
 import {
   Cpu,
   Filter,
-  Download,
   Calendar as CalendarIcon,
   ListFilter,
   TrendingUp,
@@ -565,9 +564,9 @@ const PricePrediction = () => {
     }
   };
 
-  const handleExport = () => {
-    window.open("/data/prediksi_komoditas_2026.csv", "_blank");
-  };
+  // const handleExport = () => {
+  //   window.open("/data/prediksi_komoditas_2026.csv", "_blank");
+  // };
   const ensembleStats = useMemo(() => {
     let totalValid = 0;
     let totalActual = 0;
